@@ -126,6 +126,6 @@ Plotted predicted vs actual temperatures:
 
 ## 📁 GitHub
 
-- GitHub repository:
+- GitHub repository: https://github.com/kelenbailey/itds_final_project.git
 ---
 
