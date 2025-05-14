@@ -103,10 +103,8 @@ Plotted predicted vs actual temperatures:
 
 1. Clone the repository
 2. Ensure dependencies are installed
-3. Run each notebook or script sequentially for:
- - Function approximation
- - Synthetic multivariate regression
- - Time series forecasting
+3. Add source csv to root
+4. Run notebook
 
 ---
 
